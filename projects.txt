@@ -1,0 +1,43 @@
+1. cli calculator -
+2. cli journal entry
+3. Simple text editor
+4. Tic-Tac-Toe
+5. Hangman
+6. Library management sytem
+7. Bank account management
+8. File encryption/decryption
+9. Address book
+10. Number system converter
+11. Simple database
+12. cli Chess
+13. Maze solver
+14. Student grade tracker
+15. File compression utility
+16. Sudoku solver
+17. Battleship game
+18. Text-based RPG
+
+Web scraper
+Music player
+Chat application
+Image recognition
+Encryption algorithms
+Social media analytics
+Task manager
+Stock market analyser
+Maze generator and solver
+Flight reservation system
+File system
+Database management system
+Compiler/interpreter
+Network multiplayer game
+
+Compiler optimiser
+Ray tracing renderer
+AI Game bot
+Parallel computing
+Distributed computing system
+Computer vision application
+Neural Network framework
+Operating system kernel
+High performance networking
